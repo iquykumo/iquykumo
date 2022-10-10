@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ungwiri
-- 👀 I’m interested in deep learning
-- 🌱 I’m currently learning material science
+- 👋 Hi, I’m @Ungwiri, Hangul name is 리귀운, and kana name is かえりくも
+- 👀 I’m interested in Absquatulate.  
+- 🌱 I’m currently learning material science ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
