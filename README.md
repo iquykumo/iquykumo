@@ -5,7 +5,7 @@
 - 👀 I’m interested in cpp, py, Linux(KDE).  
 - 🌱 I’m currently learning material science (a not good major) ...
 - 💞️ I’m looking to collaborate on computational simulation in materials science ...
-- 📫 How to reach me: 1208861396@qq.com
+- 📫 How to reach me: iquykumo@tutanota.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iquykumo&layout=compact)](https://github.com/iquykumo/github-readme-stats)
